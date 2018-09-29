@@ -1,0 +1,11 @@
+{
+	"version":"1",
+	"dmozConnection":{
+		"host":"52.40.148.153",
+		"port":"3306",
+        "dbName":"dmoz",
+        "driver":"",
+        "userName":"",
+        "password":""	
+	}
+}
